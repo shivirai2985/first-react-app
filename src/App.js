@@ -6,7 +6,7 @@ function App() {
     return (
 
 <>
-<Navbar/>
+<Navbar title="React-App" Aboutsession="About"/>
 </>
     );
 }
