@@ -9,7 +9,7 @@ function App() {
 <>
 <Navbar title="React-App" Aboutsession="About"/>
 <div className="container my - 3" >
-    <TextForm heading="Enter the text to analyze belowa"/>
+    <TextForm heading="Enter the text to analyze below"/>
     </div>
 
 </>
